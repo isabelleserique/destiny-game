@@ -1,6 +1,6 @@
 # Destiny, a free choice game
 
-This is a project made for Programming Language Paradigms class
+This is a project made for Programming Language Paradigms class made by Isabelle Serique and Suyara Rodrigues
 
 This is a normal sbt project. You can compile code with `sbt compile`, run it with `sbt run`, and `sbt console` will start a Scala 3 REPL.
 
