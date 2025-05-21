@@ -14,7 +14,7 @@ This is a normal sbt project. You can compile code with `sbt compile`, run it wi
 > The test consists of five simulated scenarios where the youth must make critical decisions that shape their core abilities. Each choice directly impacts their future by altering attributes like Faith, Intelligence, Physical Strength, and Empathy, ultimately determining their final profession and level of social contribution.
 >
 > Professions are tied to assigned social classes and are vital to societal stability. Once assigned, a profession cannot be changed, and the individual must fulfill their role until the end of their working life.
-# Profissões
+# Professions
 > Professions are divided into three main social strata, each with distinct responsibilities and prestige: 
 > **High Society**: The societal elite, composed of spiritual and intellectual leaders who shape the world’s direction.
 > * Faith: High Priest · Missionary · Spiritual Advisor · Acolyte
