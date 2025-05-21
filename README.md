@@ -8,31 +8,30 @@ This is a project made for Programming Language Paradigms class made by Isabelle
 
 This is a normal sbt project. You can compile code with `sbt compile`, run it with `sbt run`, and `sbt console` will start a Scala 3 REPL.
 
-# História
-> Em um mundo distópico, cada jovem, ao completar 17 anos, é obrigado a realizar um rigoroso teste de aptidão. Este teste determina a profissão que ele exercerá pelo resto da vida, até os 60 anos, e é uma peça-chave para manter uma sociedade rigidamente estruturada por habilidades.
+# History
+> In a dystopian world, every young person is required to take a rigorous aptitude test upon turning 17. This test determines the profession they will hold for the rest of their lives—until age 60—and is a cornerstone of a society rigidly structured by skill.
+> 
+> The test consists of five simulated scenarios where the youth must make critical decisions that shape their core abilities. Each choice directly impacts their future by altering attributes like Faith, Intelligence, Physical Strength, and Empathy, ultimately determining their final profession and level of social contribution.
 >
-> O teste é composto por cinco cenários simulados, onde o jovem precisa tomar decisões críticas que moldarão suas habilidades principais. Cada escolha influencia diretamente seu futuro, ao afetar atributos como Fé, Inteligência, Força Física e Empatia, determinando a profissão final e o nível de contribuição social.
->
-> As profissões variam conforme a classe social atribuída e são essenciais para a estabilidade da sociedade. Uma vez designada, a profissão não pode ser alterada, e o indivíduo deve cumprir seu papel até o fim de sua vida laboral.
+> Professions are tied to assigned social classes and are vital to societal stability. Once assigned, a profession cannot be changed, and the individual must fulfill their role until the end of their working life.
 # Profissões
-> As profissões são divididas em três principais estratos sociais, cada um com suas próprias responsabilidades e prestígio:
+> Professions are divided into three main social strata, each with distinct responsibilities and prestige: 
+> **High Society**: The societal elite, composed of spiritual and intellectual leaders who shape the world’s direction.
+> * Faith: High Priest · Missionary · Spiritual Advisor · Acolyte
+> * Intelligence: Chief Scientist · Senior Scientist · Project Engineer · Research Assistant
 > 
-> **Alta Sociedade**: A elite da sociedade, composta por líderes espirituais e intelectuais, cuja influência molda os rumos do mundo.
-> * Fé: Sumo Sacerdote - Missionário - Conselheiro Espiritual - Acólito
-> * Inteligência: Cientista Chefe - Cientista Sênior - Engenheiro de Projetos - Assistente de Pesquisa
+> **Upper-Middle Society**: Servants of order and information, with vital roles in protection, security, and knowledge maintenance.
+> * Agent: Detective · Spy · Police Officer · Security Guard
 > 
-> **Meia-Alta Sociedade**: Servidores da ordem e da informação, com papéis vitais na proteção e na manutenção da segurança e do conhecimento.
-> * Agente: Detetive - Espião - Policial - Guarda de Segurança
-> 
-> **Baixa Sociedade**: Trabalhadores dedicados a serviços industriais, fundamentais para o funcionamento do dia a dia.
-> * Serviços: Operário Industrial
-# Habilidades
-> As decisões tomadas nos cenários afetam diretamente quatro habilidades principais, que serão determinantes na escolha da profissão:
+> **Low Society**: Laborers dedicated to industrial services, essential for daily life.
+> * Services: Industrial Worker
+# Skills
+> Decisions made in the test scenarios directly affect four core skills, which determine profession assignment:
 >
-> **Fé**: Reflete a intensidade da crença, liderança espiritual e capacidade de empatia. Profissões ligadas à religião e aconselhamento espiritual valorizam essa habilidade.
+> **Faith**: Reflects intensity of belief, spiritual leadership, and empathetic capacity. Professions tied to religion and spiritual guidance prioritize this skill.
 >
-> **Inteligência**: Relacionada à lógica, raciocínio, capacidade de aprendizado e resolução de problemas. Profissões científicas e de engenharia requerem alta inteligência.
+> **Intelligence**: Governs logic, reasoning, learning ability, and problem-solving. Scientific and engineering roles require high intelligence.
 >
-> **Força Física**: Envolve resistência, agilidade e destreza. Profissões voltadas para segurança e trabalho manual dependem dessa habilidade.
+> **Physical Strength**:  Includes endurance, agility, and dexterity. Security and manual labor professions depend on this skill.
 >
-> **Empatia**: Habilidade de se conectar com os outros e entender emoções alheias. Profissões que exigem liderança ou trabalho em equipe precisam de alta empatia.
+> **Empathy**: The ability to connect with others and understand emotions. Leadership or teamwork-oriented professions demand high empathy.
